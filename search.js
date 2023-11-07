@@ -1,3 +1,5 @@
+
+
 const searchForm = document.querySelector('#news-search');
 const input = document.querySelector('#news-search-input');
 const newsList = document.querySelector('#news-list');
@@ -8,13 +10,10 @@ searchForm.addEventListener('submit', retrieve);
 function retrieve(e) {
   e.preventDefault();
 
-  // Using free API from NYT without personal information entered
-  const apiKey = 'DLZ8l3LexEzjUx51P8tJAQ6lNLnAeMsg';
-
   // Set the topic as the value entered in news-search-input
   // Set URL to the API + Topic + API Key
   let topic = input.value;
-  let url = `https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${topic}&api-key=${apiKey}`;
+  let url = `${newsDomain}?q=${topic}&api-key=${apiKey}`;
 
   // Fetch the URL and return Json response
   fetch(url)

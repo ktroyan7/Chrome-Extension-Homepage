@@ -2,10 +2,6 @@
 let lat = 40.73061;
 let long = -73.935242;
 
-const imgUrl = 'http://openweathermap.org/img/wn/';
-const domain = 'https://api.openweathermap.org/data/2.5/weather';
-const apiKey = '25967eb87320641c374aa973f15326e0';
-
 function setExtensionWeather(
   locationName,
   locationCountry,
@@ -35,7 +31,7 @@ function getWeatherLocation(position) {
 
   // API string using JavaScript template literals
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-  const api = `${domain}?lat=${lat}&lon=${long}&appid=${apiKey}&units=metric`;
+  const api = `${weatherDomain}?lat=${lat}&lon=${long}&appid=${weatherApiKey}&units=metric`;
 
   fetch(api)
     .then((response) => {
