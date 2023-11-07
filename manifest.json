@@ -1,0 +1,10 @@
+{
+  "name": "New Homepage",
+  "version": "3.0",
+  "description": "My CS50 Project",
+  "manifest_version": 3,
+  "permissions": ["geolocation", "storage"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
