@@ -31,6 +31,7 @@ function getWeatherLocation(position) {
 
   // API string using JavaScript template literals
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+  
   const api = `${weatherDomain}?lat=${lat}&lon=${long}&appid=${weatherApiKey}&units=metric`;
 
   fetch(api)
