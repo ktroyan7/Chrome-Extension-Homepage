@@ -15,9 +15,16 @@
 4. There is a collapsible "to-do" list that can save your tasks and saved in local storage.
 5. Finally, there is a news search bar to search for news articles from the NYT.
 
-#### Video Demo:  <URL HERE>
+### Video Demo:
 
-### Screenshots
+### Screenshots:
+
+<img width="1432" alt="Homepage" src="https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/5f8d970c-e3e3-4c36-a460-d62853359d72">
+<img width="1432" alt="To-Do_List" src="https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/029c1498-000a-4977-9565-ffa2f7746b1d">
+<img width="1414" alt="News" src="https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/3cc5858c-23b7-4416-9250-2538186b233f">
+
+
+
 
 ## Overview:
 I decided to build a Chrome Extension similar to the Momentum Chrome Extension. I am interested in working with APIs and building different web applications using APIs and I thought this was a great place to start. I knew that if I got stuck, I would be able to find solutions since the features of the extension are common (Quote APIs, Weather APIs, To-Do Lists, News APIs). 
