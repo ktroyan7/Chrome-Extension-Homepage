@@ -3,8 +3,8 @@
 ## Table of Contents
 
 [Features](#features)
-- [Video Demo](#video-demo)
-- [Screenshots](#screenshots)
+  - [Video Demo](#video-demo)
+  - [Screenshots](#screenshots)
 [Overview](#overview)
 [Project Files](#project-files)
 
