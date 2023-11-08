@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-[Features](#features)
+- [Features](#features)
   - [Video Demo](#video-demo)
   - [Screenshots](#screenshots)
-[Overview](#overview)
-[Project Files](#project-files)
+- [Overview](#overview)
+- [Project Files](#project-files)
 
 ## Features:
 1. This app can be added as a Chrome Extension so be the default homepage when you open a new tab or window.
