@@ -1,10 +1,25 @@
 # Chrome Extension Homepage
 
+## Table of Contents
+
+[Features](#features)
+- [Video Demo](#video-demo)
+- [Screenshots](#screenshots)
+[Overview](#overview)
+[Project Files](#project-files)
+
 ## Features:
+1. This app can be added as a Chrome Extension so be the default homepage when you open a new tab or window.
+2. It displays the current weather and location based on your location.
+3. It shows the current time and a quote in the center of the page.
+4. There is a collapsible "to-do" list that can save your tasks and saved in local storage.
+5. Finally, there is a news search bar to search for news articles from the NYT.
 
 #### Video Demo:  <URL HERE>
 
-### Overview:
+### Screenshots
+
+## Overview:
 I decided to build a Chrome Extension similar to the Momentum Chrome Extension. I am interested in working with APIs and building different web applications using APIs and I thought this was a great place to start. I knew that if I got stuck, I would be able to find solutions since the features of the extension are common (Quote APIs, Weather APIs, To-Do Lists, News APIs). 
 
 I first decided what features I wanted and began to build out the different files for connecting to the APIs. I listed out how I built each file below. 
@@ -13,7 +28,7 @@ It was very interesting learning about how to fetch the API data and I used a lo
 
 After completing the project I now know I need to work on learning more CSS to help with styling. This project was also built with vanilla Javascript so I would be interested in building it using a framework like React.
 
-## File Overviews:
+## Project Files:
 
 Listed below are all the files in the project as well as descriptions for what each file does.
 
