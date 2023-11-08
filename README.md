@@ -19,8 +19,11 @@
 
 ### Screenshots:
 
+Main Screen:
 <img width="1432" alt="Homepage" src="https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/5f8d970c-e3e3-4c36-a460-d62853359d72">
+Main Screen with To-Do List:
 <img width="1432" alt="To-Do_List" src="https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/029c1498-000a-4977-9565-ffa2f7746b1d">
+News Section:
 <img width="1414" alt="News" src="https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/3cc5858c-23b7-4416-9250-2538186b233f">
 
 
