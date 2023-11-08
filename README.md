@@ -17,6 +17,8 @@
 
 ### Video Demo:
 
+https://github.com/ktroyan7/Chrome-Extension-Homepage/assets/108959100/3be88435-4055-436a-bb54-abbf07ff2d7e
+
 ### Screenshots:
 
 Main Screen:
